@@ -23,4 +23,4 @@ You don't need to provide all of these. Feel free to skip any item you think is 
 -->
 
 - **Browser:** *Firefox, Chrome, Safari, etc.*
-- **Platform:** *Mac, Linux, Windows, etc.*
+- **Platform:** *Mac, iPad, Linux, Windows, etc.*
