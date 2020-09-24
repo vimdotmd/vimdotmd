@@ -1,38 +1,26 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: Bug Report
+about: Create a bug report for Vim.md
+labels: bug
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!--
+Thank you for filing a bug report! 🐛 Please provide a short summary of the bug, along with any information, screenshot or screencast you feel relevant to replicating the bug.
+-->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**I tried this:**
+1. Go to A
+2. Do X
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**I expected to see this happen:** *explanation*
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Instead, this happened:** *explanation*
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### Meta
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+<!--
+You don't need to provide all of these. Feel free to skip any item you think is not relevant.
+-->
 
-**Additional context**
-Add any other context about the problem here.
+- **Browser:** *Firefox, Chrome, Safari, etc.*
+- **Platform:** *Mac, Linux, Windows, etc.*
