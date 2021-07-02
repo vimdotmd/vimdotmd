@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## 4 - July 3, 2021
+
+**New features:**
+
+- Add button to delete file in explorer
+- [Web] Show document title on tab
+- [Web] Support Safari's [theme-color](https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/)
+- [Mac] Improve title bar
+- [Mac] Move toolbar toggle button to title bar
+- [Mac] Use rounded app icon (Big Sur style)
+
 ## 3 - Jun 26, 2021
 
 **New features:**
