@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## 3 - Jun 26, 2021
+
+**New features:**
+
+- Add button to refresh explorer
+- Add button to create new file in explorer
+- [Web] Launch web version at [vim.md](https://vim.md)
+- [Mac] Experiment Mac App Store distribution
+- [Mac] Add Mac [notarization](https://developer.apple.com/documentation/security/notarizing_macos_software_before_distribution)
+- [Mac] Use custom title bar
+
 ## 2 - Feb 18, 2021
 
 **New features:**
