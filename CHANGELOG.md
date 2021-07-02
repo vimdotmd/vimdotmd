@@ -11,6 +11,11 @@
 - [Mac] Move toolbar toggle button to title bar
 - [Mac] Use rounded app icon (Big Sur style)
 
+**Distributions:**
+
+- Web ([vim.md](https://vim.md))
+- Mac (DMG in release note)
+
 ## 3 - Jun 26, 2021
 
 **New features:**
@@ -21,6 +26,11 @@
 - [Mac] Experiment Mac App Store distribution
 - [Mac] Add Mac [notarization](https://developer.apple.com/documentation/security/notarizing_macos_software_before_distribution)
 - [Mac] Use custom title bar
+
+**Distributions:**
+
+- Web ([vim.md](https://vim.md))
+- Mac (DMG in release note)
 
 ## 2 - Feb 18, 2021
 
@@ -37,7 +47,15 @@
 - Fix scrollbar appearance in dark mode
 - Fix syntax highlighting
 
+**Distributions:**
+
+- Linux (AppImage in release note)
+
 ## 1 - Feb 18, 2021
 
 - First release 🎉
 - Basic functionalities
+
+**Distributions:**
+
+- Linux (AppImage in release note)
